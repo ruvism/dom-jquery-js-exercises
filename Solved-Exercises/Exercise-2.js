@@ -63,12 +63,12 @@ function changeForthImage (){
 
 // 3 - URL: https://www.dell.com/en-us/shop/power-deals/ar/8346
 
-  (function sum (){
-      var  products = document.querySelectorAll('.ps-title')
-     
-      var total = products.length;
-      
-      return alert(total);
-  }())
+(function sum (){
+    var  products = document.querySelectorAll('.ps-title')
+    
+    var total = products.length;
+    
+    return alert(total);
+}())
 
 
